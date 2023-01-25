@@ -9,8 +9,8 @@ My broad research interest lies in robotics control domain and reinforcement lea
 - 🔭 I’m currently working on a Project on Multi Agent SLAM for Quadcopter
 - 🌱 I’m currently learning Multi-Agent SLAM using pose graph optimization and Implementation in a Drone Swarms
 - 👯 I’m looking to collaborate on aerial robotics projects
-- 🤔 I’m looking for help with Masters , Job/Research Opportunity in Robotics
-- 💬 Ask me about books, sports, robots, Philosophy and it's sister Psuchology, Art, Chess, Movies, Guitar, Technology, Evs
+- 🤔 I’m looking for help with Masters, Job/Research-Opportunity in Robotics
+- 💬 Ask me about books, sports, robots, Philosophy and it's sister Psychology, Art, Chess, Movies, Guitar, Technology, Evs
 - 📫 How to reach me: anshshah3009@gmail.com, f20180917@pilani.bits-pilani.ac.in
 - ⚡ Fun fact: ### Nothing is original. Steal like an Artist
 
