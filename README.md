@@ -2,8 +2,7 @@
 
 I am Ansh Shah
 
-It's my last semester pursuing BE. Mechinical Engineering and Msc.Physics from BITS Pilani University (Pilani Campus).
-Finihing my undergraduate studies with an off-campus thesis at IIIT Hyderabad under Professor Madhava Krishna.
+It's my last semester pursuing BE. Mechinical Engineering and Msc.Physics from BITS Pilani University (Pilani Campus). I am finishing my undergraduate studies with an off-campus thesis at IIIT Hyderabad under Professor Madhava Krishna.
 
 My broad research interest lies in robotics control domain and reinforcement learning (I also love to work on robotics hardware). I have implemented basic projects in deep learning and computer vision. I am learning reinforcement learning right now and I look forward to it's implementation in real life robots. I am looking forward to learning methods of autonomous navigation ,reinforcement learning.
 
