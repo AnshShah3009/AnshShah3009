@@ -5,7 +5,6 @@ I'm Ansh Shah, an enthusiast at the intersection of mechanical engineering, phys
 My research pursuits span the realms of Deep Learning, Reinforcement Learning, and Multi-Agent SLAM, with a dash of passion for robotics hardware. My portfolio encompasses foundational projects in deep learning and computer vision. While I'm currently engrossed in mastering reinforcement learning, my excitement lies in bringing these concepts to life within real robotic systems. Notably, I've contributed to a Multi-Agent SLAM pipeline at RRC and am presently engrossed in crafting a loop closure detection module for the SLAM pipeline.
 
 Here's a glimpse of my ongoing endeavours:
-
     🔭 Presently, I'm engrossed in a Multi-Agent SLAM project tailored for Quadcopters, which involves developing a Loop Closure Detection module utilizing cutting-edge DL techniques.
     🌱 My current learning trajectory involves diving deep into Multi-Agent SLAM with a focus on pose graph optimization and its practical implementation within a Drone Swarm.
     👯 I'm fervently open to collaboration on projects centred around aerial robotics, driven by a shared passion for technological innovation.
