@@ -1,5 +1,4 @@
 ### Hola Amigo👋
-Greetings,
 
 I'm Ansh Shah, an enthusiast at the intersection of mechanical engineering, physics, and robotics. I recently graduated from BITS Pilani University (Pilani Campus) with degrees in BE Mechanical Engineering and MSc Physics in May 2023. Currently, I'm immersed in the world of research as a Research Intern at the Robotics Research Center under the guidance of Professor Madhava Krishna at IIIT Hyderabad.
 
