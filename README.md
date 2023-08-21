@@ -27,6 +27,3 @@ Selected Highlights from My Project Portfolio:
 - Differentiable Local Planner (Current Project)
 
 Looking forward to exciting possibilities and collaborations in the dynamic world of robotics.
-
-Best regards,
-Ansh Shah
