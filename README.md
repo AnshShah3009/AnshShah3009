@@ -1,26 +1,33 @@
 ### Hola Amigo👋
+Greetings,
 
-I am Ansh Shah
+I'm Ansh Shah, an enthusiast at the intersection of mechanical engineering, physics, and robotics. I recently graduated from BITS Pilani University (Pilani Campus) with degrees in BE Mechanical Engineering and MSc Physics in May 2023. Currently, I'm immersed in the world of research as a Research Intern at the Robotics Research Center under the guidance of Professor Madhava Krishna at IIIT Hyderabad.
 
-I graduated from BE. Mechanical Engineering and Msc. Physics from BITS Pilani University (Pilani Campus) in May, 2023. I am currently working as a Researh Intern at Robotics Research Center under Professor Madhava Krishna at IIIT Hyderabad.
+My research pursuits span the realms of Deep Learning, Reinforcement Learning, and Multi-Agent SLAM, with a dash of passion for robotics hardware. My portfolio encompasses foundational projects in deep learning and computer vision. While I'm currently engrossed in mastering reinforcement learning, my excitement lies in bringing these concepts to life within real robotic systems. Notably, I've contributed to a Multi-Agent SLAM pipeline at RRC and am presently engrossed in crafting a loop closure detection module for the SLAM pipeline.
 
-My broad research interest lies in Deep Learning, Reinforcement learning and Multi-Agent SLAM (I also love to work on robotics hardware). I have implemented basic projects in deep learning and computer vision. I am learning reinforcement learning right now and I look forward to it's implementation in real life robots. I have worked on a Multi Agent SLAM pipeline for RRC and I am currently working on a loop closure detection module for the slam pipeline.
+Here's a glimpse of my ongoing endeavours:
 
-- 🔭 I’m currently working on a Project on Multi Agent SLAM for Quadcopter, Loop Closure Detection module using DL techniques.
-- 🌱 I’m currently learning Multi-Agent SLAM using pose graph optimization and Implementation in a Drone Swarm.
-- 👯 I’m looking to collaborate on aerial robotics projects.
-- 🤔 I’m looking for help with Masters, Job/Research-Opportunity in Robotics.
-- 💬 Ask me about books, sports, robots, Philosophy and it's sister Psychology, Art, Chess, Movies, Guitar, Technology, Evs.
-- ⚡ Fun fact: ### Nothing is original. Steal like an Artist
+    🔭 Presently, I'm engrossed in a Multi-Agent SLAM project tailored for Quadcopters, which involves developing a Loop Closure Detection module utilizing cutting-edge DL techniques.
+    🌱 My current learning trajectory involves diving deep into Multi-Agent SLAM with a focus on pose graph optimization and its practical implementation within a Drone Swarm.
+    👯 I'm fervently open to collaboration on projects centred around aerial robotics, driven by a shared passion for technological innovation.
+    🤔 I'm actively seeking guidance for potential avenues in Master's programs and job/research opportunities within the captivating realm of robotics.
+    💬 I'm always up for discussions ranging from books, sports, and philosophy to psychology, art, chess, movies, guitar, technology, and environmental studies.
+    ⚡ Fun fact: "Nothing is original. Steal like an Artist."
 
-Feel free anytime to reach out on email : anshshah3009@gmail.com, f20180917@pilani.bits-pilani.ac.in
+Feel free to connect with me via email at anshshah3009@gmail.com or f20180917@pilani.bits-pilani.ac.in. I'm always eager to engage in meaningful conversations.
 
-Some Projects i have been a part of:
-- Multi-Agent SLAM pipeline (VINS-MONO-GTSAM)
-- Micromouse
-- Autonomous Quadcopter
-- Quadruped
-- Monocopter
-- International Robotics Challenge at Techfest,IIT Bomaby in 2019
-- Quadcopter for GameOfDrones at Techfest,IIT Bombay in 2019
-- Cronus (a fancy idea of a survelliance bot)
+Selected Highlights from My Project Portfolio:
+
+    Multi-Agent SLAM Pipeline (VINS-MONO-GTSAM)
+    Micromouse
+    Autonomous Quadcopter
+    Quadruped Robot
+    Monocopter
+    Participation in the International Robotics Challenge at Techfest, IIT Bombay in 2019
+    Contribution to the Quadcopter for GameOfDrones at Techfest, IIT Bombay in 2019
+    Cronus (an innovative surveillance bot concept)
+
+Looking forward to exciting possibilities and collaborations in the dynamic world of robotics.
+
+Best regards,
+Ansh Shah
