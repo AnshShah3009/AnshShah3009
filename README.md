@@ -14,7 +14,15 @@ Here's a glimpse of my ongoing endeavours:
 - ⚡ Fun fact: "Nothing is original. Steal like an Artist."
 
 Feel free to connect with me via email at anshshah3009@gmail.com or f20180917@pilani.bits-pilani.ac.in. I'm always eager to engage in meaningful conversations.
-Follow me on Twitter: [@baymax3009](https://twitter.com/baymax3009)
+<div align="center">
+  <a href="https://twitter.com/baymax3009">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/twitter/twitter.svg" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/anshshah3009">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" height="30">
+  </a>
+</div>
+
 
 Selected Highlights from My Project Portfolio:
 - Multi-Agent SLAM Pipeline (VINS-MONO-GTSAM)
