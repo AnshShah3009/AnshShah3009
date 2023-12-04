@@ -1,13 +1,13 @@
 ### Hola Amigo👋
 <div align="left">
   <a href="https://twitter.com/baymax3009">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/twitter/twitter.svg" height="30">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/twitter/twitter.svg" height="30">
   </a>
   <a href="https://www.linkedin.com/in/anshshah3009">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" height="30">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="30">
   </a>
   <a href="mailto:anshshah3009@gmail.com">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/gmail/gmail.svg" height="30">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" height="30">
   </a>
 </div>
 
