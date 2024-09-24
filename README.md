@@ -37,6 +37,6 @@ Selected Highlights from My Project Portfolio:
 - Participation in the International Robotics Challenge at Techfest, IIT Bombay in 2019
 - Contribution to the Quadcopter for GameOfDrones at Techfest, IIT Bombay in 2019
 - Cronus (an innovative surveillance bot concept)
-- Convex Frre Space Local Planner based on Differentiable Convex Optimisatoin Layers
+- Convex Free Space Local Planner based on Differentiable Convex Optimisatoin Layers
 
 Looking forward to exciting possibilities and collaborations in the dynamic world of robotics.
